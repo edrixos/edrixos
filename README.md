@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 # Hello there!
 
 I am a junior fullstack dev with 2.5 years of learning.
+I mostly focus on Front-end JavaScript development and API integration.
 
 ## 💻 My Languages
 - HTML5

@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **edrixos/edrixos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello there!
+
+I am a junior fullstack dev with 2.5 years of learning.
+
+## 💻 My Languages
+- HTML5
+- CSS3
+- JavaScript
+
+## 🔎 Learning...
+- PHP
+- SQL
+- Laravel
+
+## 📂 My Projects
+- Coming Soon
+
+## 🪪 Contact Me
+- My Portfolio: [Link to my portfolio's repository](https://github.com/edrixos/blizfolio)
+- My Email: edrixos.a@gmail.com (subject to change)

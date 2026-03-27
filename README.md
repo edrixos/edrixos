@@ -13,26 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 # Hello there!
 
-I am a junior fullstack dev with 2.5 years of learning.
-I mostly focus on Front-end JavaScript development and API integration.
+I'm a junior full-stack developer with 2 years of learning.  
+I specialize in front-end JavaScript development, building interactive and good-looking websites.
 
-## 💻 My Languages
-- HTML5
-- CSS3
-- JavaScript
+## 💻 Languages & Technologies
+- HTML5, CSS3, JavaScript
 
-## 🔎 Learning...
-- PHP
-- SQL
-- Laravel
+## 🔎 Currently Learning
+- PHP, SQL, Laravel
 
-## 📂 My Projects
+## 📂 Projects
 - Coming Soon
 
-## 🪪 Contact Me
-- My Portfolio: [Link to my portfolio's repository](https://github.com/edrixos/blizfolio)
-- My Email: edrixos.a@gmail.com (subject to change)
+## 🪪 Contact
+- Portfolio: [repository](https://github.com/edrixos/blizfolio)  
+- Email: edrixos.a@gmail.com

@@ -25,8 +25,8 @@ I specialize in front-end JavaScript development, building interactive and good-
 - PHP, SQL, Laravel
 
 ## 📂 Projects
-- PhotoGallery: [PhotoGallery](https://github.com/edrixos/photogallery)
+- [PhotoGallery](https://github.com/edrixos/photogallery)
 
 ## 🪪 Contact
-- Portfolio: [repository](https://github.com/edrixos/blizfolio)
+- Portfolio: [](https://github.com/edrixos/blizfolio)
 - Email: edrixos.a@gmail.com (subject to change)

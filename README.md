@@ -28,5 +28,5 @@ I specialize in front-end JavaScript development, building interactive and good-
 - [PhotoGallery](https://github.com/edrixos/photogallery)
 
 ## 🪪 Contact
-- Portfolio: [click here!!](https://github.com/edrixos/blizfolio)
+- Portfolio: [my portfolio's repository](https://github.com/edrixos/blizfolio)
 - Email: edrixos.a@gmail.com (subject to change)

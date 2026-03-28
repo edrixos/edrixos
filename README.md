@@ -29,4 +29,4 @@ I specialize in front-end JavaScript development, building interactive and good-
 
 ## 🪪 Contact
 - Portfolio: [repository](https://github.com/edrixos/blizfolio)  
-- Email: edrixos.a@gmail.com
+- Email: edrixos.a@gmail.com (subject to change)

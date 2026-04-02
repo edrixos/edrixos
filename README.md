@@ -16,17 +16,20 @@ Here are some ideas to get you started:
 # Hello there!
 
 I'm a junior full-stack developer with 2 years of learning.  
-I specialize in front-end JavaScript development, building interactive and good-looking websites.
+I specialize in front-end JavaScript development, building interactive websites.
 
-## 💻 Languages & Technologies
+## Languages & Technologies
 - HTML5, CSS3, JavaScript
 
-## 🔎 Currently Learning
+## Currently Learning
 - PHP, SQL, Laravel
 
-## 📂 Projects
+## Want to learn
+- C++, unity
+
+## My projects
 - [PhotoGallery](https://github.com/edrixos/photogallery)
 
-## 🪪 Contact
+## Contact
 - Portfolio: [my portfolio's repository](https://github.com/edrixos/blizfolio)
-- Email: edrixos.a@gmail.com (subject to change)
+- Email: edrixos.a@gmail.com (subject to change, I'm not really sure)

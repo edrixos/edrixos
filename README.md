@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello there!
 
-I'm a junior full-stack developer with 2 years of learning.  
+I'm a junior developer with 2 years of learning.  
 I specialize in front-end JavaScript development, building interactive websites.
 
 ## Languages & Technologies

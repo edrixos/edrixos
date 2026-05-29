@@ -13,23 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello there!
-
-I'm a junior developer with 2 years of learning.  
+# Hello there!!
+I'm a junior developer with 2.5 years of learning.
 I specialize in front-end JavaScript development, building interactive websites.
+I also do backend from time to time.
 
 ## Languages & Technologies
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, Tailwind, Design tools, JavaScript, CMS
 
 ## Currently Learning
-- PHP, SQL, Laravel
+- PHP, MySQL, Laravel
 
 ## Want to learn
-- C++, unity
+- C++, Unity, 3D modelling, Game design
 
 ## My projects
 - [PhotoGallery](https://github.com/edrixos/photogallery)
+- A Wikipedia themed site based on lepidopterology
 
 ## Contact
-- Portfolio: [my portfolio's repository](https://github.com/edrixos/blizfolio)
-- Email: edrixos.a@gmail.com (subject to change, I'm not really sure)
+- [My portfolio](https://github.com/edrixos/blizfolio)
